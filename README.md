@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nahom <br>
 - 👀 I’m interested in creating a fun and problem solving projects <br>
-- 🌱 I’m currently Flutter <br>
+- 🌱 I’m currently learning Flutter <br>
 ![Image](https://github.com/user-attachments/assets/53de0e0a-a330-4c29-a931-eff8721b1fd0)
 
 
